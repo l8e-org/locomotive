@@ -1,4 +1,4 @@
-# Locomotive is a headless ERP
+# Locomotive - Headless ERP For Small And Medium Business
 
 **Work in progress**
 
