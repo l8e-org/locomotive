@@ -1,4 +1,4 @@
-# Locomotive - Headless ERP For Small And Medium Business
+# Locomotive - Headless ERP For SMBs
 
 **Work in progress**
 
