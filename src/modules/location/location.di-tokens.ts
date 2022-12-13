@@ -1,0 +1,1 @@
+export const LOCATION_REPOSITORY = Symbol('LOCATION_REPOSITORY');
